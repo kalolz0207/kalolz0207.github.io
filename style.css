@@ -1,0 +1,39 @@
+body {
+	font-size: 11px;
+	font-family: Tahoma, Arial;
+	padding: 10px;
+	color: #ffffff;
+	margin: 0px;
+	border: 0px;
+	background: transparent url(bg.bmp) no-repeat;
+	background-attachment: fixed;
+	border: 0px;	
+	overflow-y: auto	
+}
+.header {
+	font-size: 13px;
+	text-align: center;
+	letter-spacing:3px;
+}
+#header {
+	width: 391px;
+	height: 20px;
+	padding: 5px;
+	background-color: #56c2de;
+	border: 1px solid #cfcfcf;
+	margin: 0 auto;
+	}
+.content {
+	padding: 5px;
+}
+#asd {
+	width: 391px;
+	height: 0px;
+	padding: 5px;
+	background-color: rgba(0,0,0,0.5);
+	border: 1px dashed #cfcfcf;
+
+}
+a:hover {
+color: white;
+}
